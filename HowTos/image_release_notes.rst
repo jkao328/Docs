@@ -9,11 +9,6 @@ Image Release Notes
 Security Note for AWS Images
 ============================
 
-
-`CVE-2018-16869 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16869>`_
-
-
- 
 The Aviatrix Product Security team recommends you upgrade to the following AWS images to address known issues. The new images address multiple vulnerabilities ranked from low to high severity. None of the vulnerabilities are considered remotely exploitable in the normal usage of Aviatrix virtual appliances.
 
 - Aviatrix Secure Networking Platform – BYOL, Version 122520 https://aws.amazon.com/marketplace/pp/prodview-nsys2ingy6m3w?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console.
@@ -42,8 +37,8 @@ Detailed list of the affected packages included with the Aviatrix images:
 - lxml (`CVE-2021-28957 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28957>`_)
 - libxml2 (`CVE-2021-3537 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3537>`_, `CVE-2021-3541 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3541>`_, `CVE-2019-20388 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-20388>`_, `CVE-2017-8872 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8872>`_,
   `CVE-2020-24977 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24977>`_, `CVE-2021-3516 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3516>`_, `CVE-2021-3517 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3517>`_, `CVE-2021-3518 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3518>`_)
-- GD library (CVE-2021-38115 `CVE-2021-38115 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38115>`_, `CVE-2021-40145 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-40145>`_, `CVE-2017-6363 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6363>`_)
-- Squashfs-Tools (`CVE-2021-41072 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41072>`_, CVE-2021-40153`CVE-2021-41072 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41072>`_)
+- GD library (`CVE-2021-38115 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38115>`_, `CVE-2021-40145 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-40145>`_, `CVE-2017-6363 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6363>`_)
+- Squashfs-Tools (`CVE-2021-41072 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41072>`_, `CVE-2021-41072 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41072>`_)
 - OpenSSH (`CVE-2016-10708 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10708>`_, `CVE-2018-15473 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-15473>`_)
 - libwebp (`CVE-2020-36332 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-36332>`_, `CVE-2018-25009 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-25009>`_, `CVE-2018-25010 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-25010>`_, `CVE-2018-25012 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-25012>`_, 
   `CVE-2018-25013 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-25013>`_, `CVE-2020-36330 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-36330>`_, `CVE-2020-36331 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-36331>`_, `CVE-2018-25011 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-25011>`_,
